@@ -2,7 +2,7 @@
 
 ### 2.2.2
 
-* on github
+* on github it works
 
 ### 2.2.1
 
